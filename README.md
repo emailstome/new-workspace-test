@@ -10,3 +10,4 @@
 echo ".env" >> .gitignore
 
 git rm --cached .env# new-workspace-test
+# new-workspace-test
